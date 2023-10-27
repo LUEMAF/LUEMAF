@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lucas.
+- I’m currently learning Python.
+- I am interested in becoming a developer and I just started learning code.
